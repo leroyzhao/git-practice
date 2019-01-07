@@ -1,1 +1,1 @@
-var new1 = true;
+var abc = 123;
