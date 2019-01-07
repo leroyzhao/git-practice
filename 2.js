@@ -1,1 +1,1 @@
-var new = true;
+var new1 = true;
